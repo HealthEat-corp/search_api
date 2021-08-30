@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "max_result_window" : 100000
+  },
+  "mappings": {
+    "properties": {
+      "name" : { "type" : "text"},
+      "intakeWay" : { "type" : "text"},
+      "shelfLifeMonth" : { "type" : "text"},
+      "manufacturingNumber" : { "type" : "text"},
+      "mainFunctionality" : { "type" : "text"},
+      "storageWay" : { "type" : "text"},
+      "licenseNumber" : { "type" : "text"},
+      "packingMaterial" : { "type" : "text"},
+      "intakePrecaution" : { "type" : "text"},
+      "standardSpecification" : { "type" : "text"},
+      "properties" : { "type" : "text"},
+      "shape" : { "type" : "text"}
+    }
+  }
+}
+
+
